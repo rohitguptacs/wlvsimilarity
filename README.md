@@ -1,4 +1,4 @@
-wlvsimilarity
+WLVSimilarity
 =============
 
 This project extract the features which can be used to train a semantic similarity and/or textual entailment system.
