@@ -12,6 +12,6 @@ WordNet
 ### Usage
 `java -jar SimFeatures your_input_text_file`
 
-`your_input_text_file`: The file should tab separated sentences with two sentences per line
+`your_input_text_file`: The file should tab separated sentences with two sentences per line.
 The output will be in file simfeatures.txt.
   
